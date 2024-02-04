@@ -1,0 +1,12 @@
+hi bhai
+  bol bhai "Hello bhai";
+  bhai ye hai a = 10;
+  bhai ye hai b = 10;
+  agar bhai ( a < b){
+    bol bhai "a bada hein ";
+  }
+  warna bhai {
+    bol bhai "a chhota hein";
+  }
+
+bye bhai

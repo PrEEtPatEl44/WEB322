@@ -1,0 +1,39 @@
+
+body{
+    background-color: #0C2D57;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+
+    color: #FC6736;
+    font-family: 'Helvetica Neue',
+        sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+p {
+    color: #FFB0B0;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    line-height: 24px;
+    /* margin: 0 0 24px; */
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+img {
+    width: 450px;
+}
+a{
+    text-decoration: none;
+    color:#EFECEC;
+}
+a:hover{
+    text-decoration: none;
+}
